@@ -49,3 +49,9 @@ ERD provided in the MySQL Workbench (.mwb) file.
 - All data is synthetic and created for academic purposes
 - The model is extensible to real-world energy and billing systems
 
+## Files:
+[Team 2 - SQL Group Assignment - Renewable Energy Farms.docx](https://github.com/user-attachments/files/243155<img width="996" height="854" alt="Renewable Energy Farms Database ERD" src="https://github.com/user-attachments/assets/3e0d73d6-621b-45f0-bd4e-2440946bbde2" />
+![Uploading Renewable Energy Farms Database ERD.png…]()
+09/Team.2.-.SQL.Group.Assignment.-.Renewable.Energy.Farms.docx)
+
+
